@@ -7,7 +7,7 @@ for (i=0;i<friends.length;i++){
     for(r=99;r>0;r--){
        var next =r-1;
        if(r===99){
-           console.log(friends[i]);
+           console.log(friends[i]+":");
        }
        else if(next===0){
            next="no more"
