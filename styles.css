@@ -9,3 +9,8 @@ h1{
 .friends{
     background-color:whitesmoke;
 }
+
+div.friends h3{
+    color: rgb(119, 0, 255);
+    text-transform: uppercase;
+}
